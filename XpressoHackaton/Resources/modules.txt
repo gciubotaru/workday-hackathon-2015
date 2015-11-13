@@ -1,0 +1,486 @@
+57$1	Tools:Class Structure	Tools	Tools
+57$10	Tools:Report	Tools	Tools
+57$101	Tools:Scheduling	Tools	Tools
+57$103	EFC:Business Form Printing	EFC	Tools
+57$105	Training:Training Core	Tools	Tools
+57$106	Training:TTL	Tools	Tools
+57$107	US Compliance:Safety Incident Tracking	US Compliance	HR
+57$108	Tools:Security:Domain Security:Security Tests	Tools	Tools
+57$110	Tools:Scheduled Alerts	Tools	Tools
+57$111	Tools:Task	Tools	Tools
+57$112	Tools:External Field	Tools	Tools
+57$12	Tools:OMS Transaction	Tools	Tools
+57$121	Financials:Projects	Projects	Financials
+57$125	Tools:Calendar	Tools	Tools
+57$126	Tools:XpressO Research	Tools	Tools
+57$127	HR Talent:Succession	Talent	HR
+57$129	HR Talent:Talent Tags	Talent	HR
+57$13	Tools:OMS Secondary Components	Tools	Tools
+57$131	Tools:Profiles	Tools	Tools
+57$133	HR Benefits:Benefits	Benefits	HR
+57$134	HR Compensation:Total Compensation	Compensation	HR
+57$135	EFC:User Account	EFC	Tools
+57$136	EFC:EIB	EFC	Tools
+57$137	EFC:Validation Framework	EFC	Tools
+57$138	HR Performance	Performance	HR
+57$139	Financials:Assets	Assets	Financials
+57$14	Tools:Security:Step and Security	Tools	Tools
+57$140	Tools:Effective Dating 2.0	Tools	Tools
+57$142	Training:Diagrams	Tools	Tools
+57$143	Tools:Concurrent Job	Tools	Tools
+57$144	Tools:Productivity	Tools	Tools
+57$146	Tools:Labs	Tools	Tools
+57$147	Tools:Audit Exception	Tools	Tools
+57$148	Payroll:Payroll Core:Payroll Runtime	Payroll	Payroll
+57$149	Payroll:Payroll Accounting and Payments	Payroll	Payroll
+57$15	Tools:Web Service Test	Tools	Tools
+57$150	EFC:EFC: Outlook Add-In	EFC	Tools
+57$151	Tools:Conversion	Tools	Tools
+57$152	Tools:Module AAA	Tools	Tools
+57$153	Tools:Module BBB	Tools	Tools
+57$154	Tools:Module CCC	Tools	Tools
+57$155	Tools:Query Index	Tools	Tools
+57$156	Tools:Metadata Versioning	Tools	Tools
+57$157	QA:Utility	Tools	Tools
+57$158	Time Core	Time Core	Payroll
+57$159	Tools:Environment Manager	Tools	Tools
+57$16	Training:Training Reference Application	Tools	Tools
+57$160	HR Talent:Career Development	Talent	HR
+57$161	Tools:UI Orchestration	Tools	Tools
+57$162	Tools:PulsePoint	Tools	Tools
+57$163	Payroll:Payroll Country:Canada	Payroll	Payroll
+57$164	Tools:Service Protocol	Tools	Tools
+57$165	EFC:Solution	EFC	Tools
+57$166	Tools:Dynamic Grid	Tools	Tools
+57$167	Tools:Search	Tools	Tools
+57$168	Tools:Matrix	Tools	Tools
+57$169	Financials:Grants	Grants	Financials
+57$17	Tools:Web Services	Tools	Tools
+57$170	Tools:Security:Service Center	Tools	Tools
+57$171	Test Engineering:Diffs Integration	Tools	Tools
+57$172	Test Engineering:Diffs Reporting	Tools	Tools
+57$173	Test Engineering:Diffs WATS	Tools	Tools
+57$174	Test Engineering:Web Services	Tools	Tools
+57$175	Test Engineering:WATS HR Compensation	Tools	Tools
+57$176	Test Engineering:WATS HR Benefits	Tools	Tools
+57$177	Test Engineering:WATS HR Core	Tools	Tools
+57$178	Test Engineering:WATS Payroll	Tools	Tools
+57$179	Test Engineering:WATS Financials	Tools	Tools
+57$180	Test Engineering:WATS Absence	Tools	Tools
+57$181	Test Engineering:WATS Time Tracking	Tools	Tools
+57$182	HR Person:Contact Information	Person	HR
+57$183	HR Person:Personal Information	Person	HR
+57$184	HR Person:IDs	Person	HR
+57$185	HR Person:Name	Person	HR
+57$186	US Compliance:Form I-9	US Compliance	HR
+57$187	HR Person:Related Persons:Emergency Contacts	Person	HR
+57$188	HR EMEA:Employee Contracts	EMEA	HR
+57$189	HR Person:Photo	Person	HR
+57$192	HR Recruiting:Process - General	Recruiting	HR
+57$193	HR Recruiting:Candidate - General	Recruiting	HR
+57$197	Tools:UI Interaction	Tools	Tools
+57$198	HR Recruiting:Setup	Recruiting	HR
+57$199	Tools:Concurrent Update Tests	Tools	Tools
+57$2	Tools:Method	Tools	Tools
+57$213	Payroll:Payroll Country:USA	Payroll	Payroll
+57$215	Payroll:Payroll Country:United Kingdom	Payroll	Payroll
+57$216	Tools:Usage	Tools	Tools
+57$22	EFC:Organization	EFC	Tools
+57$220	Payroll:Payroll Country:France	Payroll	Payroll
+57$221	HR Compensation:Review:Common	Compensation	HR
+57$222	HR Compensation:Review:Pool	Compensation	HR
+57$223	HR Compensation:Review:Spend	Compensation	HR
+57$224	HR Compensation:Review:Target	Compensation	HR
+57$225	HR Compensation:Review:Merit	Compensation	HR
+57$226	HR Compensation:Review:Bonus	Compensation	HR
+57$227	HR Compensation:Review:Stock	Compensation	HR
+57$228	HR Compensation:Review:Stock Grant	Compensation	HR
+57$229	HR Compensation:Core:Plan	Compensation	HR
+57$230	HR Compensation:Core:Guidance	Compensation	HR
+57$231	HR Compensation:Core:Matrix	Compensation	HR
+57$232	HR Compensation:Core:Scorecard	Compensation	HR
+57$233	HR Compensation:Core:Plan:Process	Compensation	HR
+57$234	HR Compensation:Core:Change	Compensation	HR
+57$235	HR Compensation:Core:Assigned	Compensation	HR
+57$236	HR Compensation:Core:Pay Consumer	Compensation	HR
+57$237	HR Compensation:Core:Employee Payment	Compensation	HR
+57$238	HR Compensation:Core:Severance	Compensation	HR
+57$239	HR Compensation:Core:Period Activity	Compensation	HR
+57$24	HR Core:Common	Core	HR
+57$240	HR Compensation:Core:Guidance:Marketdata	Compensation	HR
+57$241	HR Global:Global Setup	Global	HR
+57$242	HR Workforce Planning:HR Worktag (Do Not Use)	Workforce Planning	HR
+57$243	HR Workforce Planning:Headcount Plan	Workforce Planning	HR
+57$244	HR E&G:Academic Appointment	E&G	HR
+57$25	HR Core:Staffing	Core	HR
+57$250	Secdev:Audit	Tools	Tools
+57$251	STU: Student Recruiting	Student Recruiting	Student
+57$252	STU: Admissions	Admissions	Student
+57$253	STU: Student Records:Curriculum	Student System	Student
+57$254	STU: Campus Engagement	Campus Engagement	Student
+57$255	STU: Student Portfolio	Student Portfolio	Student
+57$256	STU: Academic Advising	Academic Advising	Student
+57$257	STU: Student Finance	Student Finance	Student
+57$258	STU: Financial Aid	Financial Aid	Student
+57$259	STU: Academic Foundation	Academic Foundation	Student
+57$262	Tools:TPC-E Benchmark	Tools	Tools
+57$263	HR Benefits:Benefits:Setup	Benefits	HR
+57$264	HR Benefits:Benefits:Setup:Benefit Coverage Type	Benefits	HR
+57$265	HR Benefits:Benefits:Setup:Enrollment Event Type	Benefits	HR
+57$266	HR Benefits:Benefits:Setup:Enrollment Event Rule	Benefits	HR
+57$267	HR Benefits:Benefits:Benefits Related Persons	Benefits	HR
+57$268	HR Benefits:Benefits:Setup:Benefit Group	Benefits	HR
+57$269	HR Benefits:Benefits:Credits And Surcharges	Benefits	HR
+57$27	HR Compensation:Deprecated	Compensation	HR
+57$270	HR Benefits:Benefits:Setup:Benefit Plan	Benefits	HR
+57$271	HR Benefits:Benefits:Setup:Benefit Plan:Insurance Coverage	Benefits	HR
+57$272	HR Benefits:Benefits:Setup:Benefit Plan:Benefit Rate	Benefits	HR
+57$273	HR Benefits:Benefits:Setup:Benefit Plan:Health Care Coverage Plan	Benefits	HR
+57$274	HR Benefits:Benefits:Setup:Benefit Plan:Insurance Coverage Plan	Benefits	HR
+57$275	HR Benefits:Benefits:Setup:Benefit Plan:Additional Benefits Plan	Benefits	HR
+57$276	HR Benefits:Benefits:Setup:Benefit Plan:Health Savings Account Plan	Benefits	HR
+57$277	HR Benefits:Benefits:Setup:Benefit Plan:Retirement Savings Plan	Benefits	HR
+57$278	HR Benefits:Benefits:Setup:Benefit Plan:Spending Account Plan	Benefits	HR
+57$279	HR Benefits:Benefits:Cross Plan	Benefits	HR
+57$280	HR Benefits:Benefits:Benefits Related Persons:Beneficiaries	Benefits	HR
+57$281	HR Benefits:Benefits:Benefits Related Persons:Dependents	Benefits	HR
+57$282	HR Benefits:Benefits:General Benefits:Benefits Annual Rate	Benefits	HR
+57$283	HR Benefits:Benefits:General Benefits:Benefits Annual Credits	Benefits	HR
+57$284	HR Benefits:Benefits:General Benefits:Benefit Jobs	Benefits	HR
+57$285	HR Benefits:Benefits:General Benefits:Wellness	Benefits	HR
+57$286	HR Benefits:Benefits:Eligibility	Benefits	HR
+57$287	HR Benefits:Benefits:Benefit Events	Benefits	HR
+57$288	HR Benefits:Benefits:Benefit Enrollment	Benefits	HR
+57$289	HR Benefits:Benefits:Benefit Elections	Benefits	HR
+57$29	EFC:Business Process Framework	EFC	Tools
+57$290	HR Benefits:Benefits:Benefits for Payroll:WD Payroll	Benefits	HR
+57$291	HR Benefits:Benefits:Benefits for Payroll:Payroll Interface	Benefits	HR
+57$292	HR Benefits:Benefits:WBN	Benefits	HR
+57$293	HR Benefits:Benefits:Setup:Benefit Plan:Benefit Provider	Benefits	HR
+57$3	Tools:Constants and Utility Classes	Tools	Tools
+57$300	HR E&G:Academic Pay	E&G	HR
+57$301	STU: Academic Foundation:Academic Unit	Academic Foundation	Student
+57$302	HR E&G:Budget API	E&G	HR
+57$303	HR Performance:Employee Reviews	Performance	HR
+57$304	HR Performance:Feedback	Performance	HR
+57$305	HR Performance:Goals	Performance	HR
+57$306	HR Core:Worker	Core	HR
+57$307	HR Core:Former Worker	Core	HR
+57$308	HR Core:Setup	Core	HR
+57$309	HR Core:Onboarding	Core	HR
+57$310	Collaboration:Unified Inbox	Collaboration	Tools
+57$311	Collaboration:Sharing Framework	Collaboration	Tools
+57$312	Collaboration:Notebook Framework	Collaboration	Tools
+57$313	Collaboration:Notification Framework	Collaboration	Tools
+57$314	Collaboration:Activity Stream	Collaboration	Tools
+57$315	HR Core:Staffing:Setup	Core	HR
+57$316	HR Core:Staffing:Position Group	Core	HR
+57$317	HR Core:Staffing:Filled Position/Job	Core	HR
+57$318	HR Core:Staffing:Organization	Core	HR
+57$319	Collaboration:Collaboration	Collaboration	Tools
+57$32	Tools:Methods for Processing	Tools	Tools
+57$320	HR Benefits:Benefits:General Benefits	Benefits	HR
+57$321	HR Benefits:Benefits:Benefit Events:Open Enrollment	Benefits	HR
+57$322	HR Benefits:Benefits:Benefit Events:Life Events	Benefits	HR
+57$323	HR Benefits:Benefits:Benefit Events:Passive Events	Benefits	HR
+57$324	HR Benefits:Benefits:Benefit Events:Common Flow	Benefits	HR
+57$325	HR Benefits:Benefits:Benefit Events:Common Flow:Coordination of Events	Benefits	HR
+57$326	HR Benefits:Benefits:Benefit Events:Common Flow:Evidence of Insurability	Benefits	HR
+57$327	HR Benefits:Benefits:Benefit Events:Change Retirement Savings	Benefits	HR
+57$328	HR Benefits:Benefits:Benefit Enrollment:Enroll in Benefits	Benefits	HR
+57$329	HR Benefits:Benefits:Benefit Enrollment:Enroll in Benefits:Additional Benefits	Benefits	HR
+57$33	Tools:Methods for Data Access	Tools	Tools
+57$330	HR Benefits:Benefits:Benefit Enrollment:Enroll in Benefits:Health Care	Benefits	HR
+57$331	HR Benefits:Benefits:Benefit Enrollment:Enroll in Benefits:Health Savings Account	Benefits	HR
+57$332	HR Benefits:Benefits:Benefit Enrollment:Enroll in Benefits:Insurance	Benefits	HR
+57$333	HR Benefits:Benefits:Benefit Enrollment:Enroll in Benefits:Retirement Savings	Benefits	HR
+57$334	HR Benefits:Benefits:Benefit Enrollment:Enroll in Benefits:Spending Account	Benefits	HR
+57$335	HR Benefits:Benefits:Benefit Enrollment:Navigation	Benefits	HR
+57$336	HR Benefits:Benefits:Benefit Elections:Election Package	Benefits	HR
+57$337	HR Benefits:Benefits:Benefit Elections:Coverage	Benefits	HR
+57$338	HR Benefits:Benefits:Benefit Elections:Evidence of Insurability	Benefits	HR
+57$339	HR Benefits:Benefits:Benefit Elections:Costs and Contribution	Benefits	HR
+57$340	HR Benefits:Benefits:Benefit Elections:Dates	Benefits	HR
+57$341	HR Benefits:Benefits:Benefit Elections:COBRA	Benefits	HR
+57$342	HR Benefits:Benefits:Benefit Elections:Election Selection	Benefits	HR
+57$343	HR Benefits:Benefits:Benefits for Payroll	Benefits	HR
+57$344	HR Performance:Employee Reviews:Employee Review Templates	Performance	HR
+57$345	HR Performance:Employee Reviews:Ratings	Performance	HR
+57$346	HR Performance:Employee Reviews:Printout	Performance	HR
+57$347	HR Performance:Goals:Personal Goals	Performance	HR
+57$348	HR Performance:Goals:Organization Goals	Performance	HR
+57$349	HR Performance:Feedback:Anytime Feedback	Performance	HR
+57$350	HR Performance:Feedback:Requested Feedback	Performance	HR
+57$352	HR Core: Misc.	Core	HR
+57$354	Tools:Mobile	Tools	Tools
+57$38	Tools:User Task	Tools	Tools
+57$39	HR Core:Staffing:Job Requisition	Core	HR
+57$4	Tools:User Interface Testing	Tools	Tools
+57$45	Tools:OMS Runtime	Tools	Tools
+57$47	HR:Payroll Interface	Core	HR
+57$471	HR Talent:Calibration	Talent	HR
+57$472	HR Talent:Talent Review	Talent	HR
+57$473	HR Talent:Assess Potential	Talent	HR
+57$474	HR Talent:Talent Pools	Talent	HR
+57$475	HR Talent:Skills and Experience	Talent	HR
+57$476	HR Talent:Professional Profile	Talent	HR
+57$477	HR Talent:Talent Card	Talent	HR
+57$478	HR Talent:Calibration:Calibration Program	Talent	HR
+57$479	HR Talent:Calibration:Calibration Process	Talent	HR
+57$48	Tools:OMS Version	Tools	Tools
+57$482	HR Talent:Talent Review:Talent Review Template	Talent	HR
+57$484	HR Talent:Talent Review:Talent Review Process	Talent	HR
+57$49	Tools:OMS Test Classes	Tools	Tools
+57$495	HR Talent:Succession:Succession Pools	Talent	HR
+57$496	HR Talent:Skills and Experience:Accomplishments	Talent	HR
+57$497	HR Talent:Skills and Experience:Awards	Talent	HR
+57$498	HR Talent:Skills and Experience:Certifications	Talent	HR
+57$499	HR Talent:Skills and Experience:Education	Talent	HR
+57$5	Tools:Roles Development	Tools	Tools
+57$50	Absence:Absence Management	Absence	Payroll
+57$500	HR Talent:Skills and Experience:Internal Projects	Talent	HR
+57$501	HR Talent:Skills and Experience:Job History	Talent	HR
+57$502	HR Talent:Skills and Experience:Professional Affiliations	Talent	HR
+57$503	HR Talent:Skills and Experience:Training	Talent	HR
+57$504	HR Talent:Skills and Experience:Work Experience	Talent	HR
+57$505	HR Talent:Skills and Experience:Competencies	Talent	HR
+57$506	HR Talent:Skills and Experience:Languages	Talent	HR
+57$52	EFC:Integration Framework	EFC	Tools
+57$532	Tools	Tools	Tools
+57$533	HR	Core	HR
+57$534	EFC	EFC	Tools
+57$535	Training	Tools	Tools
+57$536	Financials	Core and Close	Financials
+57$537	Payroll	Payroll	Payroll
+57$538	Environments	Tools	Tools
+57$539	QA	Tools	Tools
+57$540	Time	Time	Payroll
+57$541	Test Engineering	Tools	Tools
+57$542	HR Benefits	Benefits	HR
+57$543	HR Compensation	Compensation	HR
+57$544	HR Core	Core	HR
+57$545	HR E&G	E&G	HR
+57$546	HR Global	Global	HR
+57$548	HR Talent	Talent	HR
+57$549	HR Recruiting	Recruiting	HR
+57$55	Implementation Tools:iLoad	Implementation Tools	Tools
+57$550	HR Workforce Planning	Workforce Planning	HR
+57$551	Secdev	Tools	Tools
+57$552	Student System	Student System	Student
+57$553	Collaboration	Collaboration	Tools
+57$554	HR Benefits:Benefits:General Benefits:Affordable Care Act (ACA)	Benefits	HR
+57$556	Financials:Budgets	Budgets	Financials
+57$557	Implementation Tools:OX	Implementation Tools	Tools
+57$558	Implementation Tools	Implementation Tools	Tools
+57$560	Tools:Data Aging	Tools	Tools
+57$561	ICP	ICP	Tools
+57$562	ICP:ICP	ICP	Tools
+57$563	ICP:EIB	ICP	Tools
+57$564	ICP:Integration Framework	ICP	Tools
+57$565	ICP:Miscellaneous MBs Tests	ICP	Tools
+57$566	ICP:Solution	ICP	Tools
+57$567	ICP:Web Service Background Process	ICP	Tools
+57$568	Impl Tools	Tools	Tools
+57$569	Impl Tools:ILoad	Tools	Tools
+57$57	EFC:Shared Components	EFC	Tools
+57$570	HR Recruiting:Candidate - Prospect	Recruiting	HR
+57$571	HR Recruiting:Candidate - Referral	Recruiting	HR
+57$572	HR Recruiting:Process - Screening	Recruiting	HR
+57$573	HR Recruiting:Process - Interview	Recruiting	HR
+57$574	HR Recruiting:Process - Offer	Recruiting	HR
+57$575	HR Recruiting:Compliance	Recruiting	HR
+57$576	HR Recruiting:Search / Match	Recruiting	HR
+57$577	HR Recruiting:Reporting	Recruiting	HR
+57$578	HR Recruiting:Architecture	Recruiting	HR
+57$579	HR Recruiting:Career Site - Internal	Recruiting	HR
+57$580	HR Recruiting:Career Site - External	Recruiting	HR
+57$581	HR Recruiting:Candidate - Application	Recruiting	HR
+57$582	HR Recruiting:Process - Background Check	Recruiting	HR
+57$583	HR Recruiting:Process - Assessment	Recruiting	HR
+57$584	HR Recruiting:Process - Hire	Recruiting	HR
+57$585	HR Recruiting:Job Posting	Recruiting	HR
+57$586	Integration	Tools	Tools
+57$587	Integration:FIN	Tools	Tools
+57$588	Integration:PYI	Tools	Tools
+57$589	Integration:CCB	Tools	Tools
+57$590	Integration:PAY	Tools	Tools
+57$591	Integration:HCM	Tools	Tools
+57$592	Integration:Service Injector	Tools	Tools
+57$594	Tools:Big Data Analytics	Tools	Tools
+57$6	Tools:OMS Fixed Components	Tools	Tools
+57$600	Financials:Spend	Spend	Financials
+57$601	Financials:Revenue and Customers (Super):Financials:Revenue and Customers	Revenue and Customers	Financials
+57$602	Financials:Revenue and Customers (Super):Financials:Revenue and Customers:Customers	Revenue and Customers	Financials
+57$603	Absence	Absence	Payroll
+57$605	HR EMEA:Jobs & Staffing	EMEA	HR
+57$606	Tools:Security	Tools	Tools
+57$607	Tools:Security:Delegation/Proxy	Tools	Tools
+57$608	Tools:Security:Workday Account	Tools	Tools
+57$61	Financials:Settlements	Settlements	Financials
+57$613	Payroll:Payroll Country:Common	Payroll	Payroll
+57$614	Payroll:Payroll Country	Payroll	Payroll
+57$615	HR E&G:Named Professorship	E&G	HR
+57$617	Tools:XpressO Language	Tools	Tools
+57$618	Tools:App Usage Metrics	Tools	Tools
+57$62	Tools:Attachments	Tools	Tools
+57$623	Tools:Security:KMI	Tools	Tools
+57$626	Financials:Inventory	Inventory	Financials
+57$630	EFC:Worktags	EFC	Tools
+57$641	Tools:Analytic Metrics	Tools	Tools
+57$644	Financials:Core and Close:Financials:Close	Core and Close	Financials
+57$645	HR Workforce Planning:Supply and Demand Analytics	Workforce Planning	HR
+57$646	HR E&G:Committee	E&G	HR
+57$648	Time Scheduling	Time Scheduling	Payroll
+57$65	Financials:Spend:Supplier Accounts	Spend	Financials
+57$650	HR Core:Setup:Do Not Use	Core	HR
+57$651	Collaboration:Social Sharing	Collaboration	Tools
+57$67	Tools:WATS Framework	Tools	Tools
+57$69	Financials:Revenue and Customers (Super):Financials:Revenue and Customers:Revenue	Revenue and Customers	Financials
+57$694	HR Talent:Internal Careers	Talent	HR
+57$695	HR Talent:Succession:Succession Plans	Talent	HR
+57$696	General Ledger (DO NOT USE)	Core and Close	Financials
+57$698	HR Recruiting:Job Requisition	Recruiting	HR
+57$699	US Compliance	US Compliance	HR
+57$7	Tools:Method Binding	Tools	Tools
+57$70	Tools:Localization	Tools	Tools
+57$700	ICP:Print Service	ICP	Tools
+57$701	SYMAN Insights	Tools	Tools
+57$702	SYMAN Insights:SYMAN XO Interface	Tools	Tools
+57$703	VPS	VPS	Tools
+57$704	SYMAN Insights:Insight Apps	Tools	Tools
+57$705	SYMAN Insights:Insight Apps:Recommended Candidates	Tools	Tools
+57$706	SYMAN Insights:Public Insights	Tools	Tools
+57$726	Collaboration:Notification Framework:Push Notifications:Google Cloud Messaging	Collaboration	Tools
+57$727	Collaboration:Notification Framework:Push Notifications	Collaboration	Tools
+57$728	Collaboration:Notification Framework:Push Notifications:Apple Push Notifications	Collaboration	Tools
+57$729	SYMAN Insights:Insight Apps:Retention Risk	Tools	Tools
+57$730	test	Tools	Tools
+57$731	Implementation Tools:Test	Implementation Tools	Tools
+57$732	HR Person:Related Persons	Person	HR
+57$733	HR Person:Related Persons:Beneficiaries	Person	HR
+57$734	Collaboration:Email Gadgets	Collaboration	Tools
+57$735	Payroll:Payroll Accounting and Payments:Accounting	Payroll	Payroll
+57$736	Payroll:Payroll Accounting and Payments:Commitments and Fringe	Payroll	Payroll
+57$737	Payroll:Payroll Accounting and Payments:Payments	Payroll	Payroll
+57$738	Payroll:Payroll Core:Calculations	Payroll	Payroll
+57$739	Performance Dashboard	Tools	Tools
+57$740	Collaboration:LinkedIn Recruiter	Collaboration	Tools
+57$741	Test Module B	Tools	Tools
+57$742	Test Module A:Test Module C	Tools	Tools
+57$743	Test Module A	Tools	Tools
+57$745	Collaboration:LinkedIn Import	Collaboration	Tools
+57$746	EFC:Organization:Activator	EFC	Tools
+57$747	EF:Document Generator	EFC	Tools
+57$748	EF(A2)	EFC	Tools
+57$749	HR Talent:Skills and Experience:Skill Profiles	Talent	HR
+57$75	Financials:Cash Management	Cash Management	Financials
+57$750	HR Recruiting:Recruiting Agency Management	Recruiting	HR
+57$751	SYMAN Insights:Search Infrastructure	Tools	Tools
+57$752	HR Talent:Talent Scorecard	Talent	HR
+57$753	Financials:Projects:Resource and Work Management	Projects	Financials
+57$754	Financials:Projects:Core and Financials	Projects	Financials
+57$755	HR Talent:Talent Insights	Talent	HR
+57$756	Tools:Design Repository	Tools	Tools
+57$757	Tools:Design Repository:Functional Design Repository	Tools	Tools
+57$758	Tools:Design Repository:Technical Design Repository	Tools	Tools
+57$759	Financials:Revenue and Customers (Super):Financials:Revenue and Customers (A2)	Revenue and Customers	Financials
+57$76	EFC:Email Framework	EFC	Tools
+57$760	Financials:Revenue and Customers (Super):Financials:Revenue and Customers (A2):Customers (A2)	Revenue and Customers	Financials
+57$761	Financials:Revenue and Customers (Super):Financials:Revenue and Customers (A2):Revenue (A2)	Revenue and Customers	Financials
+57$762	Financials:Revenue and Customers (Super)	Revenue and Customers	Financials
+57$763	SYMAN Insights:Insight Platform	Tools	Tools
+57$764	STU: Student Records	Student System	Student
+57$765	STU: Student Records:Student Registration	Student System	Student
+57$766	STU: Student Records:Academic Records	Student System	Student
+57$767	STU: Staging Event Data	Student System	Student
+57$769	Student System:Student Frameworks	Student System	Student
+57$77	Tools:Performance Measurement	Tools	Tools
+57$770	STU: Eligibility	Eligibility	Student
+57$771	STU: Assignment	Assignment	Student
+57$772	Financials:Core and Close	Core and Close	Financials
+57$773	Drew's Test Parent Module:Drew's Test Module	Tools	Tools
+57$774	Drew's Test Parent Module	Tools	Tools
+57$775	Learning	Learning	HR
+57$776	Learning - Course Management	Learning	HR
+57$777	HR Person	Person	HR
+57$778	HR EMEA	EMEA	HR
+57$779	HR Person:Related Persons:Dependents	Person	HR
+57$780	Tools:XpressO Visualizer	Tools	Tools
+57$781	HR Talent:Skills and Experience:Talent Statements	Talent	HR
+57$782	Holiday Calendar	Time	Payroll
+57$783	Time Core:Background Process	Time Core	Payroll
+57$784	Time Core:Setup:Transactional Metadata	Time Core	Payroll
+57$785	Time Core:Setup	Time Core	Payroll
+57$786	Time Scheduling:Core	Time Scheduling	Payroll
+57$787	Time Scheduling:Calendar Container	Time Scheduling	Payroll
+57$788	Time Core:Time Validation	Time Core	Payroll
+57$789	Time Core:Time Calculation	Time Core	Payroll
+57$790	Time Core:Time Clock Event	Time Core	Payroll
+57$791	Time Core:Calendar Container	Time Core	Payroll
+57$792	Time Core:Time Legacy	Time Core	Payroll
+57$793	HR E&G:Academic Appointment:Work Status Reporting	E&G	HR
+57$794	Student System:Student History	Student System	Student
+57$795	Tools:Remote Data	Tools	Tools
+57$796	Tools:Worksheet	Tools	Tools
+57$797	EF: Forking Framework	EFC	Tools
+57$798	Tools:Design Repository:Test Case Repository	Tools	Tools
+57$799	EFC:Organization:Roles	EFC	Tools
+57$80	Payroll:Payroll Core:Calculation Framework	Payroll	Payroll
+57$800	EFC:Organization:Deprecated	EFC	Tools
+57$801	EFC:Organization:Hierarchies	EFC	Tools
+57$802	EFC:Organization:Navigable	EFC	Tools
+57$803	EFC:Organization:Location	EFC	Tools
+57$804	EFC:Organization:Reorganization	EFC	Tools
+57$805	EFC:Organization:Membership Rule	EFC	Tools
+57$806	EFC:Organization:Orderable	EFC	Tools
+57$807	STU: Student Social	Student System	Student
+57$808	ALM	Tools	Tools
+57$809	ALM:Customer Central	Tools	Tools
+57$81	Payroll:Payroll Core	Payroll	Payroll
+57$810	STU: Registration	Student System	Student
+57$811	Mobile - iOS	Tools	Tools
+57$812	HR EMEA:Employee Contracts:Contracts	EMEA	HR
+57$813	HR EMEA:Employee Contracts:Pre-Hire Contracts	EMEA	HR
+57$814	Financials:Endowments	Endowments	Financials
+57$815	STU: Student Labs	Student System	Student
+57$816	Participation	Compensation	HR
+57$817	Financials:Core and Close:Financials Core:Tax	Core and Close	Financials
+57$818	EFC:Business Process Framework:Application Transaction Observer	EFC	Tools
+57$819	HR Core:Pre-Hire	Core	HR
+57$82	Financials:Spend:Procurement	Spend	Financials
+57$820	Absence:Time Off	Absence	Payroll
+57$821	Absence:Leave of Absence	Absence	Payroll
+57$822	Absence:Core	Absence	Payroll
+57$823	Absence:Leave of Absence:Setup	Absence	Payroll
+57$824	Absence:Leave of Absence:Transactional	Absence	Payroll
+57$825	Absence:Time Off:Setup	Absence	Payroll
+57$826	Absence:Time Off:Calculation	Absence	Payroll
+57$827	Absence:Time Off:Transactional	Absence	Payroll
+57$828	Absence:Time Off:Transactional:Calculate Balance Job	Absence	Payroll
+57$829	Absence:Time Off:Calendar Container	Absence	Payroll
+57$83	Tools:Old Custom Attribute	Tools	Tools
+57$830	Absence:Leave of Absence:Calendar Container	Absence	Payroll
+57$831	HR Compensation:Core:Basis	Compensation	HR
+57$832	HR Compensation:Core:Statutory	Compensation	HR
+57$833	HR Compensation:Review:Configuration	Compensation	HR
+57$834	HR Compensation:Review:Coordination	Compensation	HR
+57$835	Tools:Class Structure:Class Structure Test	Tools	Tools
+57$836	STU: Touchpoints	Student System	Student
+57$837	HR EMEA:Jobs & Staffing:Collective Agreements	EMEA	HR
+57$838	HR EMEA:Jobs & Staffing:Probation Periods	EMEA	HR
+57$839	HR Compensation:Review	Compensation	HR
+57$84	Tools:Custom Objects	Tools	Tools
+57$840	HR Compensation:Core	Compensation	HR
+57$841	Financials:Spend:Supplier Accounts A2	Spend	Financials
+57$842	HR Talent:Skills and Experience:Achievements:Publications	Talent	HR
+57$843	HR Talent:Skills and Experience:Achievements:Awards and Activities	Talent	HR
+57$844	Collaboration:Collaboration:Interview Scheduling	Collaboration	Tools
+57$845	ICP:Large Reports	ICP	Tools
+57$846	HR Talent:Skills and Experience:Achievements	Talent	HR
+57$85	Financials:Expenses	Core and Close	Financials
+57$86	Tools:OMS Upgrade	Tools	Tools
+57$88	Tools:Translation	Tools	Tools
+57$94	Tools:Worklets	Tools	Tools
+57$95	EFC:Condition Rules	EFC	Tools
+57$96	Financials:Core and Close:Financials Core	Core and Close	Financials
+57$99	Tools:Security:Domain Security	Tools	Tools
